@@ -1,0 +1,10 @@
+﻿.env
+.venv/
+__pycache__/
+*.py[cod]
+outputs/runs/
+outputs/*.csv
+outputs/*.json
+outputs/*.jsonl
+data/icd_embeddings/*.npy
+!data/icd_embeddings/.gitkeep
